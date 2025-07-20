@@ -57,4 +57,9 @@ Welcome to my GitHub! I'm a passionate **Computer Science Engineering student** 
 - 📧 Email: dishantdhyani01@gmail.com
 
 ---
+> “First solve the problem, then write the code.” – John Johnson
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to **🌟 star**, **🍴 fork**, or **👁️ follow** for updates.
 
