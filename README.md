@@ -58,4 +58,3 @@ Welcome to my GitHub! I'm a passionate **Computer Science Engineering student** 
 
 ---
 
-*“Code is not just instructions to*
